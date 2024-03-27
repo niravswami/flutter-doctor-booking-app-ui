@@ -1,6 +1,6 @@
-| App                                                                                                                    | Screenshots                                                                                                                   | -   | -   |
-| ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --- | --- |
-| ![App Screenshot](https://github.com/niravswami/flutter-doctor-booking-app-ui/blob/main/assets/images/home_screen.png) | ![Screen shot](https://github.com/niravswami/flutter-doctor-booking-app-ui/blob/main/assets/images/doctor_details_screen.png) | -   | -   |
+| -   | -   | App                                                                                                                    | Screenshots                                                                                                                   | -   | -   |
+| --- | --- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| -   | -   | ![App Screenshot](https://github.com/niravswami/flutter-doctor-booking-app-ui/blob/main/assets/images/home_screen.png) | ![Screen shot](https://github.com/niravswami/flutter-doctor-booking-app-ui/blob/main/assets/images/doctor_details_screen.png) | -   | -   |
 
 # flutter doctor booking app UI
 
